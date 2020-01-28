@@ -1,13 +1,10 @@
-package AR_1;
-
-import java.util.ArrayList;
-
 //******************************************************************************************
 //MAMSevenDwarfs.java   Author: Mark Mauro 		Section: 02
 //
 //Represents an ArrayList Demo
 //*****************************************************************************************
 
+import java.util.ArrayList;
 
 public class MAMSevenDwarfs {
 
