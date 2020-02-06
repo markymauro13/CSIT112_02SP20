@@ -1,4 +1,10 @@
-
+//******************************************************************************************
+// MAM2dArray.java   Author: Mark Mauro    Section: 02
+//
+// Next print one diagonal of this "determinant" on one line , and then the other separated by a line from the first diagonal you printed.
+// Substitute "but I have commitment issues"  for the last line  in the above poem  and print the whole poem.
+//
+//*****************************************************************************************
 
 public class MAM2dArray {
 
